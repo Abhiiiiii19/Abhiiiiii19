@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Abhiiiiii19
+- 👋 Hi, I’m Abhishek Sahani
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning reactjs and nodejs.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web development fields.
 - 📫 How to reach me , you can mail me at abhisahani19@gmail.com
 
 <!---
